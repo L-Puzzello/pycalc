@@ -7,4 +7,7 @@ def compute(expression):
         return num0 + num1
     else:
         print('unknown operator!')
-        return 0
+        return num0 + num1
+    else:
+        print('unknown operator!')
+        return None
