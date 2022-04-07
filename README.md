@@ -1,2 +1,2 @@
 # pycalc
-data fluency workshop
+python calculator
